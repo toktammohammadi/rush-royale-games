@@ -1,0 +1,9 @@
+# ninja log v6
+10	1048	7539024832926582	qq_autogen/timestamp	ca892bbad207ef7a
+10	1048	7539024832926582	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+10	1048	7539024832926582	qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+5882	6449	7539024882497814	qq.exe	b5bd108d9cc1afa8
+10	1048	7539024832926582	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/timestamp	ca892bbad207ef7a
+1056	5491	7539024834233077	CMakeFiles/qq.dir/qq_autogen/mocs_compilation.cpp.obj	250913a5d052aad7
+1060	5512	7539024834282958	CMakeFiles/qq.dir/main.cpp.obj	9dfafaefca002b5c
+1064	5881	7539024834322847	CMakeFiles/qq.dir/mainwindow.cpp.obj	38ae0b397ab73d2d
