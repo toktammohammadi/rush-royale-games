@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-665a8cfd5047ffe43a08.json",
+					"jsonFile" : "directory-.-Debug-cfb6f059f5a972e65f06.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "qq::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-qq-Debug-baacb5d1757619b4189d.json",
+					"jsonFile" : "target-qq-Debug-1dd51d4767d11a98502c.json",
 					"name" : "qq",
 					"projectIndex" : 0
 				},

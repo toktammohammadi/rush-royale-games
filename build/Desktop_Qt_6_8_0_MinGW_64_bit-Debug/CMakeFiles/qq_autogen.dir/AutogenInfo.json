@@ -272,6 +272,12 @@
 			null
 		],
 		[
+			"C:/Users/Asus/Desktop/rush-royale-games/Enemy.h",
+			"MU",
+			"EWIEGA46WW/moc_Enemy.cpp",
+			null
+		],
+		[
 			"C:/Users/Asus/Desktop/rush-royale-games/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -350,6 +356,7 @@
 	"SOURCES" : 
 	[
 		[ "C:/Users/Asus/Desktop/rush-royale-games/Agent.cpp", "MU", null ],
+		[ "C:/Users/Asus/Desktop/rush-royale-games/Enemy.cpp", "MU", null ],
 		[ "C:/Users/Asus/Desktop/rush-royale-games/main.cpp", "MU", null ],
 		[ "C:/Users/Asus/Desktop/rush-royale-games/mainwindow.cpp", "MU", null ]
 	],
