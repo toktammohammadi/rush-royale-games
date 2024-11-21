@@ -1,11 +1,18 @@
 # ninja log v6
-18	187	7539033146415592	qq_autogen/timestamp	ca892bbad207ef7a
-18	187	7539033146415592	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
-18	187	7539033146415592	qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
-260	523	7539033148844566	qq.exe	6a18dec262f99b29
-18	187	7539033146415592	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/timestamp	ca892bbad207ef7a
+20	203	7539034687211191	qq_autogen/timestamp	ca892bbad207ef7a
+20	203	7539034687211191	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+20	203	7539034687211191	qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+3350	3655	7539034720510847	qq.exe	55d173916230ed8d
+20	203	7539034687211191	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/timestamp	ca892bbad207ef7a
 1056	5491	7539024834233077	CMakeFiles/qq.dir/qq_autogen/mocs_compilation.cpp.obj	250913a5d052aad7
 1060	5512	7539024834282958	CMakeFiles/qq.dir/main.cpp.obj	9dfafaefca002b5c
 1064	5881	7539024834322847	CMakeFiles/qq.dir/mainwindow.cpp.obj	38ae0b397ab73d2d
 179	2438	7539031693650086	CMakeFiles/qq.dir/Agent.cpp.obj	5e15a5b8a855d819
 189	260	7539033148131864	CMakeFiles/qq.dir/Enemy.cpp.obj	5541d3441cc774c2
+204	3350	7539034689056711	CMakeFiles/qq.dir/Log.cpp.obj	c75cd7afbb803726
+34	241	7539036058473172	qq_autogen/timestamp	ca892bbad207ef7a
+34	241	7539036058473172	qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+34	241	7539036058473172	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/timestamp	ca892bbad207ef7a
+34	241	7539036058473172	C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/mocs_compilation.cpp	ca892bbad207ef7a
+243	3618	7539036060552748	CMakeFiles/qq.dir/Board.cpp.obj	2d457daa9ad605f4
+3618	4073	7539036094305772	qq.exe	2b417c77c78fb0e7

@@ -380,3 +380,7 @@ C:/Users/Asus/Desktop/rush-royale-games/Enemy.cpp
 C:/Users/Asus/Desktop/rush-royale-games/Agent.h
 C:/Users/Asus/Desktop/rush-royale-games/Enemy.h
 C:/Users/Asus/Desktop/rush-royale-games/Agent.cpp
+C:/Users/Asus/Desktop/rush-royale-games/Log.h
+C:/Users/Asus/Desktop/rush-royale-games/Log.cpp
+C:/Users/Asus/Desktop/rush-royale-games/Board.h
+C:/Users/Asus/Desktop/rush-royale-games/Board.cpp
