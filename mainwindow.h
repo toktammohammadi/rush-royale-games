@@ -5,6 +5,11 @@
 #include <QStackedWidget>
 #include <QPushButton>
 #include <QLabel>
+#include <QVBoxLayout>
+
+#include "Board.h"
+
+
 
 class MainWindow : public QMainWindow
 {
@@ -23,6 +28,7 @@ private:
     QWidget *secondPage;
     QPushButton *startpushButton;
     QLabel *backgroundLabel;
+    Board *board;
 };
 
 #endif // MAINWINDOW_H

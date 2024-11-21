@@ -1,0 +1,27 @@
+[2024-11-21 20:54:05] Board created with size: 6x5
+[2024-11-21 20:54:08] Board created with size: 6x5
+[2024-11-21 20:54:08] Agent created: Defender
+[2024-11-21 20:54:08] Agent added at position (2, 3)
+[2024-11-21 20:54:08] Enemy created with health: 100 and speed: 1
+[2024-11-21 20:54:08] Enemy added with initial position (0, 0)
+[2024-11-21 20:54:08] Moving enemies...
+[2024-11-21 20:54:08] Enemy moved to position: (1, 0)
+[2024-11-21 20:54:08] Enemy moved to position: (1, 0)
+[2024-11-21 21:48:04] Board created with size: 6x5
+[2024-11-21 21:48:06] Board created with size: 6x5
+[2024-11-21 21:48:06] Agent created: Defender
+[2024-11-21 21:48:06] Agent added at position (2, 3)
+[2024-11-21 21:48:06] Enemy created with health: 100 and speed: 1
+[2024-11-21 21:48:06] Enemy added with initial position (0, 0)
+[2024-11-21 21:48:06] Moving enemies...
+[2024-11-21 21:48:06] Enemy moved to position: (1, 0)
+[2024-11-21 21:48:06] Enemy moved to position: (1, 0)
+[2024-11-21 21:49:39] Board created with size: 6x5
+[2024-11-21 21:49:40] Board created with size: 6x5
+[2024-11-21 21:49:40] Agent created: Defender
+[2024-11-21 21:49:40] Agent added at position (2, 3)
+[2024-11-21 21:49:40] Enemy created with health: 100 and speed: 1
+[2024-11-21 21:49:40] Enemy added with initial position (0, 0)
+[2024-11-21 21:49:40] Moving enemies...
+[2024-11-21 21:49:40] Enemy moved to position: (1, 0)
+[2024-11-21 21:49:40] Enemy moved to position: (1, 0)

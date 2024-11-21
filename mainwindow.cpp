@@ -45,6 +45,7 @@ MainWindow::MainWindow(QWidget *parent)
     secondPage = new QWidget(this);
     QLabel *secondLabel = new QLabel("This is the second page", secondPage);
     QVBoxLayout *secondLayout = new QVBoxLayout(secondPage);
+    board = new Board(6, 5, secondPage);
     secondLayout->addWidget(secondLabel);
     secondPage->setLayout(secondLayout);
 
@@ -60,4 +61,8 @@ MainWindow::~MainWindow() {}
 void MainWindow::onStartButtonClicked()
 {
     stackedWidget->setCurrentWidget(secondPage); // رفتن به صفحه دوم
+    board = new Board(6, 5);
+    board->addAgent(2, 3, Agent("Defender", 10, 5));
+    board->addEnemy(Enemy(100, 1));
+    board->moveEnemies();
 }

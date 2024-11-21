@@ -1,19 +1,17 @@
-
 #ifndef LOG_H
 #define LOG_H
 
 #include <QString>
 #include <QFile>
 #include <QTextStream>
+#include <QDateTime>
+#include <iostream>
 
-class Log {
+class Log
+{
 public:
-    static Log& getInstance();
-    void addEvent(const QString& event);
-
-private:
-    Log();
-    QFile file;
+    // تابعی برای نوشتن پیام‌ها در لاگ
+    static void write(const QString &message);
 };
 
-#endif
+#endif // LOG_H

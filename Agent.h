@@ -1,21 +1,24 @@
-
 #ifndef AGENT_H
 #define AGENT_H
 
 #include <QString>
+#include "log.h"
 
-class Agent {
+class Agent
+{
 public:
-    Agent(QString name = "", int power = 0, int speed = 0);
-    void upgrade();
-    int getPower() const;
-    int getSpeed() const;
+    Agent(const QString &name, int health, int power);
+
     QString getName() const;
+    int getHealth() const;
+    int getPower() const;
+
+    void takeDamage(int damage);
 
 private:
     QString name;
+    int health;
     int power;
-    int speed;
 };
 
-#endif
+#endif // AGENT_H

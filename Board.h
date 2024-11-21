@@ -3,24 +3,33 @@
 #define BOARD_H
 
 #include <vector>
+#include <QWidget>
+#include <QVector>
+#include <QPoint>
+#include <QPainter>
 #include "Agent.h"
 #include "Enemy.h"
 #include "Log.h"
 
-class Board {
+class Board : public QWidget
+{
+    Q_OBJECT
+
 public:
-    Board(int rows, int columns);
-    void addAgent(int row, int col, const Agent& agent);
-    void addEnemy(const Enemy& enemy);
+    explicit Board(int rows, int cols, QWidget *parent = nullptr);
+
+    void addAgent(int x, int y, const Agent &agent);
+    void addEnemy(const Enemy &enemy);
     void moveEnemies();
-    void checkEnemies();
-    void upgradeAgent(int row, int col);
+
+protected:
+    void paintEvent(QPaintEvent *event) override;
 
 private:
-    int rows;
-    int columns;
-    std::vector<std::vector<Agent>> agents;
-    std::vector<Enemy> enemies;
+    int rows, cols;
+    QVector<Agent> agents;
+    QVector<QPoint> agentPositions;
+    QVector<Enemy> enemies;
 };
 
-#endif
+#endif // BOARD_H

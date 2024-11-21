@@ -1,4 +1,4 @@
-C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Asus/Desktop/rush-royale-games/mainwindow.h \
+C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/EWIEGA46WW/moc_Board.cpp: C:/Users/Asus/Desktop/rush-royale-games/Board.h \
   C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/qq_autogen/moc_predefs.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/QDateTime \
   C:/Qt/6.8.0/mingw_64/include/QtCore/QFile \
@@ -126,7 +126,6 @@ C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debu
   C:/Qt/6.8.0/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/qtypes.h \
-  C:/Qt/6.8.0/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.8.0/mingw_64/include/QtCore/qvarlengtharray.h \
@@ -150,14 +149,12 @@ C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debu
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpainter.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpalette.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpen.h \
-  C:/Qt/6.8.0/mingw_64/include/QtGui/qpicture.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpixmap.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qpolygon.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qrgba64.h \
-  C:/Qt/6.8.0/mingw_64/include/QtGui/qtextdocument.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qtguiexports.h \
@@ -165,24 +162,8 @@ C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debu
   C:/Qt/6.8.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.0/mingw_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QLabel \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QMainWindow \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QPushButton \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QStackedWidget \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/QVBoxLayout \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/QWidget \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qabstractbutton.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qboxlayout.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qframe.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qgridlayout.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qlabel.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qlayout.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qlayoutitem.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qmainwindow.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qstackedwidget.h \
-  C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.8.0/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -425,7 +406,6 @@ C:/Users/Asus/Desktop/rush-royale-games/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debu
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/Asus/Desktop/rush-royale-games/Agent.h \
-  C:/Users/Asus/Desktop/rush-royale-games/Board.h \
   C:/Users/Asus/Desktop/rush-royale-games/Enemy.h \
   C:/Users/Asus/Desktop/rush-royale-games/Log.h \
   C:/Users/Asus/Desktop/rush-royale-games/log.h
